@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "nodemailer": "^6.4.11",
     "price-finder": "^5.0.2",
     "puppeteer": "^5.0.0"
   },

@@ -1,216 +1,72 @@
 ------------------------------------------------------------------------
 
 			
-Time: Thu Aug 20 2020 18:52:27 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 10
-Product Name: Leather wheeled briefcase 
-Type of Product: Pre-Owned 
-Price on Craigslist: 80
-Price on Ebay: 47
-Status Determined: fail
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:52:28 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 4
-Product Name: DELL XPS 200 / p4 3.0 / 250 gbhd win 7 
-Type of Product: Pre-Owned 
-Price on Craigslist: 65
-Price on Ebay: 1
-Status Determined: fail
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:52:28 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 5
-Product Name: Monitor 
-Type of Product: Refurbished 
-Price on Craigslist: 10
-Price on Ebay: 129
-Status Determined: excellent (potential to be a scam)
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:52:29 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 9
-Product Name: Hp  Probook  650  G1 
-Type of Product: Pre-Owned 
-Price on Craigslist: 0
-Price on Ebay: 249
-Status Determined: excellent (potential to be a scam)
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:52:30 GMT-0400 (Eastern Daylight Time)
+Time: Fri Aug 21 2020 12:49:03 GMT-0400 (Eastern Daylight Time)
 			
 Item Entry #: 1
-Product Name: (((_____RETINA 16'', 2.6 GHZ i7 CPU/((____MacBook Pro 16inch - - - - - 
-Type of Product: Pre-Owned 
-Price on Craigslist: 500
-Price on Ebay: 399
-Status Determined: fail
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:52:32 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 3
-Product Name: Computer monitors 
-Type of Product: Refurbished 
-Price on Craigslist: 25
-Price on Ebay: 129
-Status Determined: excellent
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:52:32 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 6
-Product Name: MacBook Air Retina Gold model. 
+Product Name: Logitech LIKE NEW MK545 Advanced Wireless Keyboard and Mouse Combo 
 Type of Product: Brand New 
-Price on Craigslist: 500
-Price on Ebay: 16
+Price on Craigslist: 35
+Price on Ebay: 22
 Status Determined: fail
 
 ------------------------------------------------------------------------
 
 			
-Time: Thu Aug 20 2020 18:56:59 GMT-0400 (Eastern Daylight Time)
+Time: Fri Aug 21 2020 12:49:05 GMT-0400 (Eastern Daylight Time)
 			
-Item Entry #: 26
-Product Name: motorola cable modem sb5101 with haxorware install 
-Type of Product:- 
+Item Entry #: 7
+Product Name: Memory ram for Laptop DDR, Pc2, Pc3  1gb, 512mb lots stick of ram 
+Type of Product: Open Box 
 Price on Craigslist: 5
+Price on Ebay: 6
+Status Determined: great
+
+------------------------------------------------------------------------
+
+			
+Time: Fri Aug 21 2020 12:49:05 GMT-0400 (Eastern Daylight Time)
+			
+Item Entry #: 8
+Product Name: motorola cable modem sb5101 with haxorware install 
+Type of Product: Refurbished 
+Price on Craigslist: 15
 Price on Ebay: 25
 Status Determined: excellent
 
 ------------------------------------------------------------------------
 
 			
-Time: Thu Aug 20 2020 18:57:17 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 16
-Product Name: Computer Software Manuals  DOS 5.0 &amp; Ascend 
-Type of Product: Brand New 
-Price on Craigslist: 250
-Price on Ebay: 30
-Status Determined: fail
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:57:24 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 30
-Product Name: Memory ram for Laptop PC2, DDR2 2GB, 1gb, 512mb lots stick of ram 
-Type of Product: Open Box 
-Price on Craigslist: 15
-Price on Ebay: 6
-Status Determined: fail
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:57:26 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 8
-Product Name: (((_____RETINA 16'', 2.6 GHZ i7 CPU/((____MacBook Pro 16inch - - 
-Type of Product: Pre-Owned 
-Price on Craigslist: 500
-Price on Ebay: 399
-Status Determined: fail
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:57:29 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 22
-Product Name: Dell Dimension 8250 Computer, Monitor And Keyboard. Works Great. 
-Type of Product: Refurbished 
-Price on Craigslist: 20
-Price on Ebay: 119
-Status Determined: excellent
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:57:43 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 9
-Product Name: Hp  Probook  650  G1 
-Type of Product: Pre-Owned 
-Price on Craigslist: 0
-Price on Ebay: 249
-Status Determined: excellent (potential to be a scam)
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:57:44 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 28
-Product Name: Laptop wanted, Sell your unwanted laptop computer 
-Type of Product: Pre-Owned 
-Price on Craigslist: 5
-Price on Ebay: 249
-Status Determined: excellent (potential to be a scam)
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:57:47 GMT-0400 (Eastern Daylight Time)
+Time: Fri Aug 21 2020 12:49:06 GMT-0400 (Eastern Daylight Time)
 			
 Item Entry #: 6
-Product Name: MacBook Air Retina Gold model. 
-Type of Product: Brand New 
-Price on Craigslist: 500
-Price on Ebay: 16
-Status Determined: fail
+Product Name: Memory ram for Laptop PC2, DDR2 2GB, 1gb, 512mb lots stick of ram 
+Type of Product: Open Box 
+Price on Craigslist: 5
+Price on Ebay: 6
+Status Determined: great
 
 ------------------------------------------------------------------------
 
 			
-Time: Thu Aug 20 2020 18:57:48 GMT-0400 (Eastern Daylight Time)
-			
-Item Entry #: 1
-Product Name: (((_____RETINA 16'', 2.6 GHZ i7 CPU/((____MacBook Pro 16inch - - - - - 
-Type of Product: Pre-Owned 
-Price on Craigslist: 500
-Price on Ebay: 399
-Status Determined: fail
-
-------------------------------------------------------------------------
-
-			
-Time: Thu Aug 20 2020 18:57:48 GMT-0400 (Eastern Daylight Time)
+Time: Fri Aug 21 2020 12:49:07 GMT-0400 (Eastern Daylight Time)
 			
 Item Entry #: 3
-Product Name: Computer monitors 
-Type of Product: Refurbished 
-Price on Craigslist: 25
-Price on Ebay: 129
-Status Determined: excellent
+Product Name: Memory ram for Laptop Pc2 lots stick of ram 
+Type of Product: Pre-Owned 
+Price on Craigslist: 10
+Price on Ebay: 275
+Status Determined: excellent (potential to be a scam)
 
 ------------------------------------------------------------------------
 
 			
-Time: Thu Aug 20 2020 18:57:49 GMT-0400 (Eastern Daylight Time)
+Time: Fri Aug 21 2020 12:49:54 GMT-0400 (Eastern Daylight Time)
 			
-Item Entry #: 10
-Product Name: Leather wheeled briefcase 
-Type of Product: Pre-Owned 
-Price on Craigslist: 80
-Price on Ebay: 47
-Status Determined: fail
+Item Entry #: 9
+Product Name: iPad Pro 12.9 2018 64gb 3rd gen new in box 
+Type of Product: Brand New 
+Price on Craigslist: 850
+Price on Ebay: 879
+Status Determined: undecided
 

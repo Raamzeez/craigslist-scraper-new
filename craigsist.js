@@ -6,10 +6,6 @@ dotenv.config()
 const scrapeData = async () => {
   try {
     console.log('\nInitiation: Starting Craigslist Server Environment...\n')
-    // const timeout = parseInt(process.env.CRAIGSLIST_TIMEOUT) * 1000
-    // console.log(timeout, typeof timeout)
-    // await page.setDefaultNavigationTimeout(timeout)
-    // emitter.setMaxListeners([100])
     process.setMaxListeners(0)
     const headless = (process.env.CRAIGSLIST_HEADLESS == 'true')
     const browser = await puppeteer.launch({headless})

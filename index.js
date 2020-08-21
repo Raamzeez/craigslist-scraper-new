@@ -2,13 +2,21 @@ const scrapeData = require('./craigsist')
 const findPrices = require('./priceFinder')
 const evaluatePricing = require('./evaluatePricing')
 const log = require('./logger')
+const email = require('./emailler')
 const dotenv = require('dotenv')
 
 dotenv.config()
 
 const rounds = parseInt(process.env.ROUNDS)
 
-scrapeData().then((productsInfo) => {
+// process.argv.forEach(argument => {
+// 	if (argument.includes('email')) {
+// 		email()
+// 		process.exit(1)
+// 	}
+// })
+
+scrapeData().then((productsInfo) => { 
 	for (let i = 0; i < rounds; i++) {
 		findPrices(productsInfo[i].name).then(({ price, typeOfProduct }) => {
 			console.log(productsInfo[i])
